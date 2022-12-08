@@ -6,6 +6,9 @@ likely hosted on Redhat, since that is the linux server OS I am most familiar.
 
 I would use github in order to save startup scripts and other .sh files I would need to make frequent changes to. 
 
+### Basic Toggle Script
+Implementation of 3 scripts to set firewall to High Security, Medium Scurity, and Off
+
 
 
 
